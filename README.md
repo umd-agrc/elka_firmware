@@ -24,5 +24,6 @@ GPS integration<br/>
 Better drivers for serial io <br/>
 Secure wireless protocol for messaging<br/>
 
-Authors: Vikram Hrishikeshavan, Eric Solomon<br/>
+Authors: Dr. Vikram Hrishikeshavan, Eric Solomon<br/>
 Lab: Alfred Gessow Rotorcraft Center, University of Maryland - College Park<br/>
+Advisor: Dr. Inderjit Chopra
