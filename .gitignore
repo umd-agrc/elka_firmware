@@ -1,0 +1,8 @@
+*.su
+*.so
+*.o
+*.sw*
+*.elf
+*.hex
+*.list
+*.map
