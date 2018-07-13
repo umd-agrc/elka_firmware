@@ -16,7 +16,7 @@ Snapdragon-ELKA autonomous MAV
 Shrouded rotor MAV
 High-endurance quadrotor
 
-#TODO
+# TODO
 Project documentation 
 GUI for data collection and debugging
 GPS integration
