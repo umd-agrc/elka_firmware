@@ -1,27 +1,28 @@
-ELKA: Enhanced Lightweight Kinematic Autopilot
-1.5 gram package
-Integrated sensor and single-core ARM cpu package for micro-aerial vehicle navigation
-6-axis IMU (accel + gyro)
-Supports up to 12 actuators
-FreeRTOS multi-threaded, lightweight runtime environment 
+# ELKA: Enhanced Lightweight Kinematic Autopilot
+1.5 gram package<br/>
+Integrated sensor and single-core ARM cpu package for micro-aerial vehicle navigation<br/>
+6-axis IMU (accel + gyro)<br/>
+Supports up to 12 actuators<br/>
+FreeRTOS multi-threaded, lightweight runtime environment <br/>
 
 # Required software
 Atollic TrueStudio demo version for code building 
-STM32 ST-Link Utility for code loading
+STM32 ST-Link Utility for code loading<br/>
+<br/>
 
 # Current vehicle list
-Quadrotor bi-plane
-Cyclocopter
-Snapdragon-ELKA autonomous MAV
-Shrouded rotor MAV
-High-endurance quadrotor
+Quadrotor bi-plane<br/>
+Cyclocopter<br/>
+Snapdragon-ELKA autonomous MAV<br/>
+Shrouded rotor MAV<br/>
+High-endurance quadrotor<br/>
 
 # TODO
-Project documentation 
-GUI for data collection and debugging
-GPS integration
-Better drivers for serial io 
-Secure wireless protocol for messaging
+Project documentation <br/>
+GUI for data collection and debugging<br/>
+GPS integration<br/>
+Better drivers for serial io <br/>
+Secure wireless protocol for messaging<br/>
 
-Authors: Vikram Hrishikeshavan, Eric Solomon
-Lab: Alfred Gessow Rotorcraft Center, University of Maryland - College Park
+Authors: Vikram Hrishikeshavan, Eric Solomon<br/>
+Lab: Alfred Gessow Rotorcraft Center, University of Maryland - College Park<br/>
